@@ -1,2 +1,4 @@
 # folder-spam-bot
-Spams by folders
+Spams by folders, beta, W.I.P
+
+Wait when i complete it
